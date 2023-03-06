@@ -1,0 +1,9 @@
+{
+	"name": "ConfigureGitHub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8cb52f8e-5a46-4998-a645-e6337aeb0bd6",
+		"tenantId": "ee1abd99-5b9d-40b0-872f-ca338a9a07a2"
+	}
+}
